@@ -1,1 +1,3 @@
-
+about blackjack rules:
+https://www.gymlibrary.dev/environments/toy_text/blackjack/
+but without natural blackjack
